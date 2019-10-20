@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 23.96"><defs><style>.cls-1{fill:#453e56;}.cls-2,.cls-3{fill:none;stroke:#453e56;stroke-width:1.1px;}.cls-2{stroke-miterlimit:10;}.cls-3{stroke-linecap:round;stroke-linejoin:round;}</style></defs><title>Transfer_1</title><g id="Layer_2" data-name="Layer 2"><g id="Layer_2-2" data-name="Layer 2"><path class="cls-1" d="M17.2,16.06,15.67,9h0l-.05-.27-.68-.83L12,4.24,8.38,8.69,6.8,16.06,12,19l.63-.39h0ZM15,11l1,4.46-3,1.69,1.14-3.45ZM12,6l2.49,3.06-1.07,3.24L12,16.61l-.73-2.23L9.51,9.05h0ZM9,11l2,6.15-3-1.69Z"/><path class="cls-2" d="M12,23.41A11.43,11.43,0,0,1,4.86,3.06"/><path class="cls-2" d="M12,.55A11.42,11.42,0,0,1,19,21"/><polyline class="cls-2" points="5.01 8.07 5.01 3.06 0 3.06"/><polyline class="cls-2" points="18.99 16.01 18.99 21.03 24 21.03"/><polygon class="cls-3" points="7.5 15.5 16.51 15.5 12 8.26 7.5 15.5"/><line class="cls-3" x1="12" y1="8.26" x2="12" y2="5.36"/></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#453E56;stroke-width:1.1;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#453E56;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<title>Transfer_1</title>
+<path class="st0" d="M12,23.4C5.7,23.4,0.6,18.3,0.6,12c0-3.5,1.6-6.7,4.3-8.9"/>
+<path class="st0" d="M12,0.6c6.3,0,11.4,5.1,11.4,11.4c0,3.5-1.6,6.9-4.4,9"/>
+<polyline class="st0" points="5,8.1 5,3.1 0,3.1 "/>
+<polyline class="st0" points="19,16 19,21 24,21 "/>
+<path class="st1" d="M8.6,18.2l-1.2-3.4v-2.6l0.5-0.6L7.1,10l1.5-1.5l4.4,0.1l0.5-0.8h1.9l-0.8,1.6l2.4,3.6L16.5,15l-1.8,0.3
+	L14.5,16l-2.1,1.5L8.6,18.2z"/>
+</svg>
